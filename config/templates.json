@@ -1,0 +1,172 @@
+{
+  "besant": {
+    "template": "besant.png",
+    "box_coords": [
+      50,
+      210,
+      1150,
+      1390
+    ],
+    "font_size": 21
+  },
+  "codex": {
+    "template": "codex.png",
+    "box_coords": [
+      90,
+      480,
+      1150,
+      1280
+    ],
+    "font_size": 18
+  },
+  "landt": {
+    "template": "landt.png",
+    "box_coords": [
+      50,
+      190,
+      1154,
+      1300
+    ],
+    "font_size": 20
+  },
+  "mad": {
+    "template": "mad.png",
+    "box_coords": [
+      50,
+      260,
+      1150,
+      1330
+    ],
+    "font_size": 20
+  },
+  "vcodez": {
+    "template": "vcodez.png",
+    "box_coords": [
+      50,
+      172,
+      1150,
+      1180
+    ],
+    "font_size": 19
+  },
+  "qspiders": {
+    "template": "qspiders.png",
+    "box_coords": [
+      200,
+      250,
+      1150,
+      1540
+    ],
+    "font_size": 20
+  },
+  "interns": {
+    "template": "interns.png",
+    "box_coords": [
+      120,
+      220,
+      1150,
+      1300
+    ],
+    "font_size": 20
+  },
+  "c1x": {
+    "template": "c1x.png",
+    "box_coords": [
+      50,
+      230,
+      1150,
+      1350
+    ],
+    "font_size": 20
+  },
+  "lock": {
+    "template": "lock.png",
+    "box_coords": [
+      50,
+      260,
+      1150,
+      1380
+    ],
+    "font_size": 20
+  },
+  "metro": {
+    "template": "metro.png",
+    "box_coords": [
+      65,
+      260,
+      1150,
+      1400
+    ],
+    "font_size": 20
+  },
+  "msr": {
+    "template": "msr.png",
+    "box_coords": [
+      50,
+      220,
+      1150,
+      1500
+    ],
+    "font_size": 21
+  },
+  "prompt": {
+    "template": "prompt.png",
+    "box_coords": [
+      60,
+      220,
+      1180,
+      1340
+    ],
+    "font_size": 20
+  },
+  "radwin": {
+    "template": "radwin.png",
+    "box_coords": [
+      50,
+      180,
+      1150,
+      1250
+    ],
+    "font_size": 19.5
+  },
+  "sigma": {
+    "template": "sigma.png",
+    "box_coords": [
+      70,
+      190,
+      1180,
+      1350
+    ],
+    "font_size": 20
+  },
+  "tap": {
+    "template": "tap.png",
+    "box_coords": [
+      80,
+      180,
+      1150,
+      1330
+    ],
+    "font_size": 20.5
+  },
+  "vsolv": {
+    "template": "vsolv.png",
+    "box_coords": [
+      70,
+      280,
+      1180,
+      1330
+    ],
+    "font_size": 19.5
+  },
+  "vstand": {
+    "template": "vstand.png",
+    "box_coords": [
+      130,
+      300,
+      1180,
+      1370
+    ],
+    "font_size": 19.5
+  }
+}

@@ -1,0 +1,31 @@
+
+# Byte-compiled & C extensions
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+.Python
+
+# Environment variables & secrets
+.env
+*.local
+
+# Distribution & build
+build/
+dist/
+*.egg-info/
+
+# Testing & linter caches
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# IDEs & OS files
+.vscode/
+.idea/
+.DS_Store
